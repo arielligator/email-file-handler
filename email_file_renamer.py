@@ -57,5 +57,5 @@ def rename_msgs_in_folder(folder):
             print(f"Failed to rename {fname}: still in use.")
 
 if __name__ == "__main__":
-    folder = r"C:\Users\ayashar\OneDrive - Lincoln IT\Documents\Microsoft Price Increase\Reminder Email 3"
+    folder = r"INSERT PATH"
     rename_msgs_in_folder(folder)

@@ -33,5 +33,5 @@ def group_files_by_suffix(folder_path):
 
 if __name__ == "__main__":
     # ← change this to the folder you want to organize
-    folder = r"C:\Users\ayashar\OneDrive - Lincoln IT\Documents\Microsoft Price Increase\Reminder Emails"
+    folder = r"INSERT PATH"
     group_files_by_suffix(folder)

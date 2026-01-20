@@ -41,5 +41,5 @@ def dedupe_filenames_in_folder(folder_path: str):
 
 if __name__ == "__main__":
     # <-- change this to the folder you want to clean up
-    target_folder = r"C:\Users\ayashar\OneDrive - Lincoln IT\Documents\Microsoft Price Increase\Reminder Email 1"
+    target_folder = r"INSERT PATH"
     dedupe_filenames_in_folder(target_folder)
